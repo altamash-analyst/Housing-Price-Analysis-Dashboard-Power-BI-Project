@@ -245,6 +245,10 @@ Possible enhancements:
 
 Altamash Nizamuddin
 
+- **LinkedIn:** [Altamash Nizamuddin](https://www.linkedin.com/in/altamash-nizamuddin-a208152a3/)
+- **GitHub:** [altamash-analyst](https://github.com/altamash-analyst)
+- **Email:** [altamash9876@gmail.com](mailto:altamash9876@gmail.com)
+
 Data Analyst Portfolio Project
 
 Power BI | Data Analytics | Data Visualization | Business Intelligence
